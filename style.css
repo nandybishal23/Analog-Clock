@@ -5,7 +5,7 @@
   
   body {
     background: black;
-    display: grid;
+    display: scroll;
     place-items: center;
     justify-content: center;
     align-items: center;
